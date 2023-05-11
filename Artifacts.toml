@@ -1,0 +1,78 @@
+[[ggml]]
+arch = "aarch64"
+git-tree-sha1 = "79ee70b9d04f6006d1b7143f5805f95e81af0c62"
+os = "macos"
+
+    [[ggml.download]]
+    sha256 = "2f7bf477b2b5b12299038577a782492a3c5998554ad4c62f3f337a9013ed3c74"
+    url = "https://github.com/JuliaBinaryWrappers/ggml_jll.jl/releases/download/ggml-v0.1.0+0/ggml.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[ggml]]
+arch = "aarch64"
+git-tree-sha1 = "afbe59d33864c85eb69426229b31d2338eed19b8"
+libc = "glibc"
+os = "linux"
+
+    [[ggml.download]]
+    sha256 = "792540ab9bbf0568deac0cfdfa72387b64a0eb8452069792280dfc2d9e4d55be"
+    url = "https://github.com/JuliaBinaryWrappers/ggml_jll.jl/releases/download/ggml-v0.1.0+0/ggml.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[ggml]]
+arch = "aarch64"
+git-tree-sha1 = "354f4392f6058efa05a50af6f5f1d20504ca8f73"
+libc = "musl"
+os = "linux"
+
+    [[ggml.download]]
+    sha256 = "248fe5e2f0050f9d26228ded63d9cf2117be0e0d4590a914b4b254569a791e77"
+    url = "https://github.com/JuliaBinaryWrappers/ggml_jll.jl/releases/download/ggml-v0.1.0+0/ggml.v0.1.0.aarch64-linux-musl.tar.gz"
+[[ggml]]
+arch = "i686"
+git-tree-sha1 = "ceb337b62da5ee52eb0c7162c3abe3f9d375fe1f"
+libc = "glibc"
+os = "linux"
+
+    [[ggml.download]]
+    sha256 = "8d4cfa33c98f26239ea08a549fba19e3537856a7c1d25aa95758f4a6434eb313"
+    url = "https://github.com/JuliaBinaryWrappers/ggml_jll.jl/releases/download/ggml-v0.1.0+0/ggml.v0.1.0.i686-linux-gnu.tar.gz"
+[[ggml]]
+arch = "i686"
+git-tree-sha1 = "c63d776b68c8d268fcc780798b7ad62f5079c918"
+libc = "musl"
+os = "linux"
+
+    [[ggml.download]]
+    sha256 = "587a66a2644fba25cc61cc16411d90244014ce1b5487d3fe19afc0004d4145b8"
+    url = "https://github.com/JuliaBinaryWrappers/ggml_jll.jl/releases/download/ggml-v0.1.0+0/ggml.v0.1.0.i686-linux-musl.tar.gz"
+[[ggml]]
+arch = "x86_64"
+git-tree-sha1 = "dbeae65afeedf59ef507cf62c08da446e2d65205"
+os = "macos"
+
+    [[ggml.download]]
+    sha256 = "e5ba34b818aa0811a34940f8b864605a66f407ed85be74216d7a0d9e446fe0ea"
+    url = "https://github.com/JuliaBinaryWrappers/ggml_jll.jl/releases/download/ggml-v0.1.0+0/ggml.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[ggml]]
+arch = "x86_64"
+git-tree-sha1 = "051f00340acecdc84acfd58b235a03b99b38eb9d"
+libc = "glibc"
+os = "linux"
+
+    [[ggml.download]]
+    sha256 = "7c9648a5e29f7d88b79b37912678f5d84e68dde4c180e33e79f992eefa8a4351"
+    url = "https://github.com/JuliaBinaryWrappers/ggml_jll.jl/releases/download/ggml-v0.1.0+0/ggml.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[ggml]]
+arch = "x86_64"
+git-tree-sha1 = "5dc70584d6583889fc83eba7e48f3dbd8c772627"
+libc = "musl"
+os = "linux"
+
+    [[ggml.download]]
+    sha256 = "5a45cbd78710b21211bf392106a5a074b80c159f7c43d9d7e225accb0f7b156c"
+    url = "https://github.com/JuliaBinaryWrappers/ggml_jll.jl/releases/download/ggml-v0.1.0+0/ggml.v0.1.0.x86_64-linux-musl.tar.gz"
+[[ggml]]
+arch = "x86_64"
+git-tree-sha1 = "192d74e18a1e36e93ebf0cec8f9fdc99af156e76"
+os = "freebsd"
+
+    [[ggml.download]]
+    sha256 = "9678fc28a2eeb5c478950d47fcda4852bb3477fcc461092730e6a08ef9f9b90f"
+    url = "https://github.com/JuliaBinaryWrappers/ggml_jll.jl/releases/download/ggml-v0.1.0+0/ggml.v0.1.0.x86_64-unknown-freebsd.tar.gz"
